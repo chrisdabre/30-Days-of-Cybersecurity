@@ -43,4 +43,5 @@ Want to revisit any specific topics or dive deeper? I've compiled all 30 posts f
 - **Day 28:** Cloud Security Resources [Link](https://www.linkedin.com/posts/chris-dabre_day28-cybersecurity-30daysofcybersecurity-activity-7158632552348430336-oCeO?utm_source=share&utm_medium=member_desktop)
 - **Day 29:** Web Application Hacking Tools [Link](https://www.linkedin.com/posts/chris-dabre_day29-activity-7158994947805724672-jhm9?utm_source=share&utm_medium=member_desktop)
 - **Day 30:** AWS Security [Link](https://www.linkedin.com/posts/chris-dabre_day30-cybersecurity-30daysofcybersecurity-activity-7159357333330894848-rV_j)
+- **Day 30:** Mobile App Pentest Resources [Link](https://www.linkedin.com/posts/chris-dabre_day31-cybersecurity-mobileappsecurity-activity-7160444499997962240-hG0-?utm_source=share&utm_medium=member_desktop)
   
